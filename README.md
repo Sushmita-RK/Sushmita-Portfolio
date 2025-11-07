@@ -4,7 +4,7 @@ This is a personal portfolio website built from scratch using React.js to showca
 
 The project is a fully responsive Single Page Application (SPA) designed with a modern "glassmorphism" dark theme, colorful gradients, and subtle animations to create an engaging and professional user experience.
 
-View the Live Demo (Add your deployment link here)
+View the Live Demo: https://sushmita-rk-protfolio-website.netlify.app/
 
 ## Key Features
 
