@@ -65,16 +65,17 @@ export const projectsData = [
   liveLink: "#" // Add your new project's live URL
   },
   {
-    title: "Online Job Portal", // [cite: 41]
-    dates: "Jun 2023 – Aug 2023", // [cite: 42, 43]
-    tech: ["PHP", "MySQL", "CSS", "JavaScript"], // [cite: 45]
-    description: [
-      "Created a web-based job portal connecting job seekers and employers to facilitate a seamless recruitment process.", // [cite: 44]
-      "Utilized PHP, MySQL, CSS, and JavaScript for robust database management and interactive user interfaces.", // [cite: 45]
-      "Implemented secure user authentication and real-time job posting functionalities to streamline the hiring workflow." // [cite: 46]
-    ],
-    githubLink: "#", // Add your link
-    liveLink: "#" // Add your link
+  title: "Full-Stack Real-Time Chat Application",
+  dates: "Nov 2025", // The dates we built this project
+  tech: ["Java", "Spring Boot", "Spring Security", "REST", "Spring WebSocket", "React", "JavaScript", "Vite"],
+  description: [
+    "Built a secure, full-stack, real-time messaging app with a Java Spring Boot backend and React (Vite) frontend.",
+    "Engineered end-to-end JWT authentication, securing both REST APIs and WebSocket connections.",
+    "Implemented real-time public and private 1-to-1 messaging using Spring WebSocket (STOMP).",
+    "Developed a dynamic React UI with hooks to manage auth state, user lists, and chat histories."
+  ],
+  githubLink: "https://github.com/Sushmita-RK/Full-stack-chat-app", // Add your link
+  liveLink: "#" // Add your link
   },
   {
   title: "Smart Spoon AI System",
